@@ -1,0 +1,4 @@
+com\quick\webstore\com\quick\webstore\config\DispatcherServletInitializer.class
+com\quick\webstore\com\quick\webstore\controller\HomeController.class
+com\quick\webstore\WebstoreApplication.class
+com\quick\webstore\com\quick\webstore\config\WebConfig.class
